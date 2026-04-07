@@ -1,0 +1,14 @@
+
+# .gitattributes
+# Encryt all markdown files
+*.md filter=git-crypt diff=git-crypt
+
+# Encrypt attachments
+
+/#attach/** filter=git-crypt diff=git-crypt
+/.obisidian/** filter=git-crypt diff=git-crypt
+
+# Not Encrypted git stuff
+.gitignore !filter !diff
+.gitattributes !filter !diff
+
