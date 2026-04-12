@@ -2,6 +2,6 @@
   "promptDelete": false,
   "strictLineBreaks": true,
   "readableLineLength": false,
-  "newFileLocation": "current",
-  "attachmentFolderPath": "#attach"
+  "newFileLocation": "root",
+  "attachmentFolderPath": "attachments"
 }
