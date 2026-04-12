@@ -3,5 +3,6 @@
   "strictLineBreaks": true,
   "readableLineLength": false,
   "newFileLocation": "root",
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "alwaysUpdateLinks": true
 }
